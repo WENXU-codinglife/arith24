@@ -12,8 +12,8 @@
 
 ## Introduction
 
-Welcome to the Arith24 Web Application! This is a single-player online game where the player is provided with 4 cards containing numbers from 1 to 13. The objective is to use these numbers along with arithmetic operations to evaluate to the target number, which is 24 in this case. Each number must be used exactly once in the solution. This game is a fun and challenging way to test your mathematical skills and problem-solving abilities.
-Try the game! **[Arith24](https://arith24-b3081c1cc758.herokuapp.com/)**
+Welcome to the Arith24 Web Application! This is a single-player online game where the player is provided with 4 cards containing numbers from 1 to 13. The objective is to use these numbers along with arithmetic operations to evaluate to the target number, which is 24 in this case. Each number must be used exactly once in the solution. This game is a fun and challenging way to test your mathematical skills and problem-solving abilities.\
+**Try the game! [Arith24](https://arith24-b3081c1cc758.herokuapp.com/)**
 
 ## Demo
 
